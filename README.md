@@ -1,2 +1,2 @@
 # AprendizajeMaquina
-En este repositorio se encontrara todas las entregas de la materia Teoía de aprendizaje de máquina
+En este repositorio se encontrara todas las entregas de la materia Teoría de aprendizaje de máquina
